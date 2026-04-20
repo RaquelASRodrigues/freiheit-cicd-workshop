@@ -99,3 +99,4 @@ You can also manage versions of your app by changing the Docker image tag (e.g. 
 
 That's the power of CI/CD: ship faster, with confidence 🚀.
 
+Fist my bump
