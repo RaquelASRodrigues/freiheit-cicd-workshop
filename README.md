@@ -56,7 +56,7 @@ Authentication to GCP is already set up in the workflow using **Workload Identit
 
 ### What you need to implement
 
-Open `.github/workflows/ci.yml` and complete the two TODO steps:
+Open `.github/workflows/cd.yml` and complete the two TODO steps:
 
 **1. Build and push the Docker image**
 
